@@ -7,9 +7,14 @@
     },
     "author": {
         "name": "Kieran Glover",
-        "email": "kier.p.glover@gmail.com",
+        "email": "kier.p.glover@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kierglover/Petite-Footprint-Theme"
     },
     "config": {
         "posts_per_page": 3
-    }
+    },
+    "dependencies": {}
 }
